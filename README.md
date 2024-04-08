@@ -85,13 +85,6 @@ Permitir la selección y reproducción de elementos de la lista 	Visualizar_list
 
 
 
-
-		
-
-
-
-
-
 NOMBRE	
 R3: Agregar canción a una lista
   
